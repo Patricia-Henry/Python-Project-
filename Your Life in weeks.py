@@ -1,8 +1,5 @@
-# 🚨 Don't change the code below 👇
-age = input("What is your current age?")
-# 🚨 Don't change the code above 👆
 
-# Write your code below this line 👇
+age = input("What is your current age?")
 
 # age_as_int is the oldest you will be in this case, 90
 age_as_int = 90
